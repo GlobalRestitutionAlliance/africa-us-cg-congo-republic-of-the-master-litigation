@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: congo-republic-of-thean-restitution-roadmap-and-qsf-trust-execution
-  name: Congo Republic of thean Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/congo-republic-of-thean-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_cg_001
+    name: Congo Republic Of The Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_002
+    name: Congo Republic Of The Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_003
+    name: Congo Republic Of The Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_004
+    name: Congo Republic Of The Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_005
+    name: Congo Republic Of The Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_006
+    name: Congo Republic Of The Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_007
+    name: Congo Republic Of The Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_008
+    name: Congo Republic Of The Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_009
+    name: Congo Republic Of The Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_010
+    name: Congo Republic Of The Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_011
+    name: Congo Republic Of The Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_012
+    name: Congo Republic Of The Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_013
+    name: Congo Republic Of The Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_014
+    name: Congo Republic Of The Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_015
+    name: Congo Republic Of The Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_016
+    name: Congo Republic Of The Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_017
+    name: Congo Republic Of The Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_018
+    name: Congo Republic Of The Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_019
+    name: Congo Republic Of The Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_020
+    name: Congo Republic Of The Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_021
+    name: Congo Republic Of The Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_022
+    name: Congo Republic Of The Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_023
+    name: Congo Republic Of The Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_024
+    name: Congo Republic Of The Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_025
+    name: Congo Republic Of The Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_026
+    name: Congo Republic Of The Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_027
+    name: Congo Republic Of The Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_028
+    name: Congo Republic Of The Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_029
+    name: Congo Republic Of The Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_030
+    name: Congo Republic Of The Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_031
+    name: Congo Republic Of The Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_032
+    name: Congo Republic Of The Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_033
+    name: Congo Republic Of The Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_034
+    name: Congo Republic Of The Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_035
+    name: Congo Republic Of The Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_036
+    name: Congo Republic Of The Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_037
+    name: Congo Republic Of The Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_038
+    name: Congo Republic Of The Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_039
+    name: Congo Republic Of The Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_040
+    name: Congo Republic Of The Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_041
+    name: Congo Republic Of The Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_042
+    name: Congo Republic Of The Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_043
+    name: Congo Republic Of The Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_044
+    name: Congo Republic Of The Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_045
+    name: Congo Republic Of The Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_046
+    name: Congo Republic Of The Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_047
+    name: Congo Republic Of The Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_048
+    name: Congo Republic Of The Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_049
+    name: Congo Republic Of The Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_050
+    name: Congo Republic Of The Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_051
+    name: Congo Republic Of The Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_052
+    name: Congo Republic Of The Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_053
+    name: Congo Republic Of The Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_054
+    name: Congo Republic Of The Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_055
+    name: Congo Republic Of The Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_056
+    name: Congo Republic Of The Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_057
+    name: Congo Republic Of The Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_058
+    name: Congo Republic Of The Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_059
+    name: Congo Republic Of The Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_060
+    name: Congo Republic Of The Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_061
+    name: Congo Republic Of The Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_062
+    name: Congo Republic Of The Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_063
+    name: Congo Republic Of The Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_064
+    name: Congo Republic Of The Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_065
+    name: Congo Republic Of The Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_066
+    name: Congo Republic Of The Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_067
+    name: Congo Republic Of The Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_068
+    name: Congo Republic Of The Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_069
+    name: Congo Republic Of The Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_070
+    name: Congo Republic Of The Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_071
+    name: Congo Republic Of The Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_072
+    name: Congo Republic Of The Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_073
+    name: Congo Republic Of The Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_074
+    name: Congo Republic Of The Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_075
+    name: Congo Republic Of The Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_076
+    name: Congo Republic Of The Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_077
+    name: Congo Republic Of The Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_078
+    name: Congo Republic Of The Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_079
+    name: Congo Republic Of The Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_080
+    name: Congo Republic Of The Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_081
+    name: Congo Republic Of The Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_082
+    name: Congo Republic Of The Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_083
+    name: Congo Republic Of The Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_084
+    name: Congo Republic Of The Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_085
+    name: Congo Republic Of The Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_086
+    name: Congo Republic Of The Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_087
+    name: Congo Republic Of The Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_088
+    name: Congo Republic Of The Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_089
+    name: Congo Republic Of The Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_090
+    name: Congo Republic Of The Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_091
+    name: Congo Republic Of The Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_092
+    name: Congo Republic Of The Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_093
+    name: Congo Republic Of The Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_094
+    name: Congo Republic Of The Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_095
+    name: Congo Republic Of The Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_096
+    name: Congo Republic Of The Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_097
+    name: Congo Republic Of The Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_098
+    name: Congo Republic Of The Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_099
+    name: Congo Republic Of The Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_100
+    name: Congo Republic Of The Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_101
+    name: Congo Republic Of The Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_102
+    name: Congo Republic Of The Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_103
+    name: Congo Republic Of The Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_104
+    name: Congo Republic Of The Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_105
+    name: Congo Republic Of The Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_106
+    name: Congo Republic Of The Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_107
+    name: Congo Republic Of The Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_108
+    name: Congo Republic Of The Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_109
+    name: Congo Republic Of The Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_110
+    name: Congo Republic Of The Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_111
+    name: Congo Republic Of The Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_112
+    name: Congo Republic Of The Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_113
+    name: Congo Republic Of The Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_114
+    name: Congo Republic Of The Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_115
+    name: Congo Republic Of The Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_116
+    name: Congo Republic Of The Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_117
+    name: Congo Republic Of The Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_118
+    name: Congo Republic Of The Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_119
+    name: Congo Republic Of The Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_120
+    name: Congo Republic Of The Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_121
+    name: Congo Republic Of The Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_122
+    name: Congo Republic Of The Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_123
+    name: Congo Republic Of The Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_124
+    name: Congo Republic Of The Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_125
+    name: Congo Republic Of The Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_126
+    name: Congo Republic Of The Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_127
+    name: Congo Republic Of The Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_128
+    name: Congo Republic Of The Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_129
+    name: Congo Republic Of The Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_130
+    name: Congo Republic Of The Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_131
+    name: Congo Republic Of The Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_132
+    name: Congo Republic Of The Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_133
+    name: Congo Republic Of The Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_134
+    name: Congo Republic Of The Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_135
+    name: Congo Republic Of The Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_136
+    name: Congo Republic Of The Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_137
+    name: Congo Republic Of The Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_138
+    name: Congo Republic Of The Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_139
+    name: Congo Republic Of The Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_140
+    name: Congo Republic Of The Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_141
+    name: Congo Republic Of The Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_142
+    name: Congo Republic Of The Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_143
+    name: Congo Republic Of The Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_144
+    name: Congo Republic Of The Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_145
+    name: Congo Republic Of The Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_146
+    name: Congo Republic Of The Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_147
+    name: Congo Republic Of The Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_148
+    name: Congo Republic Of The Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_149
+    name: Congo Republic Of The Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_150
+    name: Congo Republic Of The Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_151
+    name: Congo Republic Of The Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_152
+    name: Congo Republic Of The Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_153
+    name: Congo Republic Of The Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_154
+    name: Congo Republic Of The Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_155
+    name: Congo Republic Of The Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_156
+    name: Congo Republic Of The Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_157
+    name: Congo Republic Of The Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_158
+    name: Congo Republic Of The Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_159
+    name: Congo Republic Of The Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_160
+    name: Congo Republic Of The Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_161
+    name: Congo Republic Of The Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_162
+    name: Congo Republic Of The Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_163
+    name: Congo Republic Of The Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_164
+    name: Congo Republic Of The Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_165
+    name: Congo Republic Of The Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_166
+    name: Congo Republic Of The Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_167
+    name: Congo Republic Of The Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_168
+    name: Congo Republic Of The Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_169
+    name: Congo Republic Of The Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_170
+    name: Congo Republic Of The Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_171
+    name: Congo Republic Of The Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_172
+    name: Congo Republic Of The Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_173
+    name: Congo Republic Of The Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_174
+    name: Congo Republic Of The Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_175
+    name: Congo Republic Of The Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_176
+    name: Congo Republic Of The Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_177
+    name: Congo Republic Of The Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_178
+    name: Congo Republic Of The Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_179
+    name: Congo Republic Of The Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_180
+    name: Congo Republic Of The Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_181
+    name: Congo Republic Of The Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_182
+    name: Congo Republic Of The Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_183
+    name: Congo Republic Of The Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_184
+    name: Congo Republic Of The Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_185
+    name: Congo Republic Of The Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_186
+    name: Congo Republic Of The Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_187
+    name: Congo Republic Of The Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_188
+    name: Congo Republic Of The Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_189
+    name: Congo Republic Of The Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_190
+    name: Congo Republic Of The Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_191
+    name: Congo Republic Of The Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_192
+    name: Congo Republic Of The Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_193
+    name: Congo Republic Of The Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_194
+    name: Congo Republic Of The Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_195
+    name: Congo Republic Of The Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_196
+    name: Congo Republic Of The Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_197
+    name: Congo Republic Of The Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_198
+    name: Congo Republic Of The Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_199
+    name: Congo Republic Of The Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_200
+    name: Congo Republic Of The Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_201
+    name: Congo Republic Of The Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_202
+    name: Congo Republic Of The Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_203
+    name: Congo Republic Of The Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_204
+    name: Congo Republic Of The Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_205
+    name: Congo Republic Of The Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_206
+    name: Congo Republic Of The Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_207
+    name: Congo Republic Of The Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_208
+    name: Congo Republic Of The Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_209
+    name: Congo Republic Of The Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_210
+    name: Congo Republic Of The Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_211
+    name: Congo Republic Of The Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_212
+    name: Congo Republic Of The Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_213
+    name: Congo Republic Of The Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_214
+    name: Congo Republic Of The Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_215
+    name: Congo Republic Of The Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_216
+    name: Congo Republic Of The Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_217
+    name: Congo Republic Of The Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_218
+    name: Congo Republic Of The Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_219
+    name: Congo Republic Of The Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_220
+    name: Congo Republic Of The Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_221
+    name: Congo Republic Of The Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_222
+    name: Congo Republic Of The Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_223
+    name: Congo Republic Of The Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_224
+    name: Congo Republic Of The Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_225
+    name: Congo Republic Of The Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_226
+    name: Congo Republic Of The Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_227
+    name: Congo Republic Of The Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_228
+    name: Congo Republic Of The Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_229
+    name: Congo Republic Of The Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_230
+    name: Congo Republic Of The Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_231
+    name: Congo Republic Of The Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_232
+    name: Congo Republic Of The Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_233
+    name: Congo Republic Of The Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_234
+    name: Congo Republic Of The Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_235
+    name: Congo Republic Of The Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_236
+    name: Congo Republic Of The Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_237
+    name: Congo Republic Of The Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_238
+    name: Congo Republic Of The Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_239
+    name: Congo Republic Of The Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_240
+    name: Congo Republic Of The Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_241
+    name: Congo Republic Of The Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_242
+    name: Congo Republic Of The Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_243
+    name: Congo Republic Of The Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_244
+    name: Congo Republic Of The Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_245
+    name: Congo Republic Of The Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_246
+    name: Congo Republic Of The Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_247
+    name: Congo Republic Of The Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_248
+    name: Congo Republic Of The Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_249
+    name: Congo Republic Of The Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_250
+    name: Congo Republic Of The Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_251
+    name: Congo Republic Of The Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_cg_252
+    name: Congo Republic Of The Skill 252
+    status: ACTIVE_SCAFFOLD

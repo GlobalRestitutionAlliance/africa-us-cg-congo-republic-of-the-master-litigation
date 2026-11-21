@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-congo-republic-of-the-canal-and-intervention-historian
-  name: Congo Republic of the Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-congo-republic-of-the-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_cg_001
+    name: Congo Republic Of The Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_002
+    name: Congo Republic Of The Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_003
+    name: Congo Republic Of The Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_004
+    name: Congo Republic Of The Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_005
+    name: Congo Republic Of The Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_006
+    name: Congo Republic Of The Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_007
+    name: Congo Republic Of The Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_008
+    name: Congo Republic Of The Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_009
+    name: Congo Republic Of The Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_010
+    name: Congo Republic Of The Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_011
+    name: Congo Republic Of The Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_012
+    name: Congo Republic Of The Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_013
+    name: Congo Republic Of The Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_014
+    name: Congo Republic Of The Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_015
+    name: Congo Republic Of The Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_016
+    name: Congo Republic Of The Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_017
+    name: Congo Republic Of The Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_018
+    name: Congo Republic Of The Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_019
+    name: Congo Republic Of The Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_020
+    name: Congo Republic Of The Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_021
+    name: Congo Republic Of The Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_022
+    name: Congo Republic Of The Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_023
+    name: Congo Republic Of The Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_024
+    name: Congo Republic Of The Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_025
+    name: Congo Republic Of The Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_026
+    name: Congo Republic Of The Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_027
+    name: Congo Republic Of The Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_028
+    name: Congo Republic Of The Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_029
+    name: Congo Republic Of The Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_030
+    name: Congo Republic Of The Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_031
+    name: Congo Republic Of The Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_032
+    name: Congo Republic Of The Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_033
+    name: Congo Republic Of The Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_034
+    name: Congo Republic Of The Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_035
+    name: Congo Republic Of The Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_036
+    name: Congo Republic Of The Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_037
+    name: Congo Republic Of The Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_038
+    name: Congo Republic Of The Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_039
+    name: Congo Republic Of The Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_040
+    name: Congo Republic Of The Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_041
+    name: Congo Republic Of The Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_042
+    name: Congo Republic Of The Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_043
+    name: Congo Republic Of The Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_044
+    name: Congo Republic Of The Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_045
+    name: Congo Republic Of The Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_046
+    name: Congo Republic Of The Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_047
+    name: Congo Republic Of The Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_048
+    name: Congo Republic Of The Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_049
+    name: Congo Republic Of The Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_050
+    name: Congo Republic Of The Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_051
+    name: Congo Republic Of The Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_052
+    name: Congo Republic Of The Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_053
+    name: Congo Republic Of The Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_054
+    name: Congo Republic Of The Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_055
+    name: Congo Republic Of The Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_056
+    name: Congo Republic Of The Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_057
+    name: Congo Republic Of The Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_058
+    name: Congo Republic Of The Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_059
+    name: Congo Republic Of The Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_060
+    name: Congo Republic Of The Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_061
+    name: Congo Republic Of The Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_062
+    name: Congo Republic Of The Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_063
+    name: Congo Republic Of The Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_064
+    name: Congo Republic Of The Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_065
+    name: Congo Republic Of The Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_066
+    name: Congo Republic Of The Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_067
+    name: Congo Republic Of The Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_068
+    name: Congo Republic Of The Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_069
+    name: Congo Republic Of The Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_070
+    name: Congo Republic Of The Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_071
+    name: Congo Republic Of The Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_072
+    name: Congo Republic Of The Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_073
+    name: Congo Republic Of The Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_074
+    name: Congo Republic Of The Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_075
+    name: Congo Republic Of The Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_076
+    name: Congo Republic Of The Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_077
+    name: Congo Republic Of The Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_078
+    name: Congo Republic Of The Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_079
+    name: Congo Republic Of The Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_080
+    name: Congo Republic Of The Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_081
+    name: Congo Republic Of The Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_082
+    name: Congo Republic Of The Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_083
+    name: Congo Republic Of The Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_084
+    name: Congo Republic Of The Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_085
+    name: Congo Republic Of The Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_086
+    name: Congo Republic Of The Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_087
+    name: Congo Republic Of The Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_088
+    name: Congo Republic Of The Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_089
+    name: Congo Republic Of The Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_090
+    name: Congo Republic Of The Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_091
+    name: Congo Republic Of The Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_092
+    name: Congo Republic Of The Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_093
+    name: Congo Republic Of The Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_094
+    name: Congo Republic Of The Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_095
+    name: Congo Republic Of The Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_096
+    name: Congo Republic Of The Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_097
+    name: Congo Republic Of The Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_098
+    name: Congo Republic Of The Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_099
+    name: Congo Republic Of The Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_100
+    name: Congo Republic Of The Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_101
+    name: Congo Republic Of The Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_102
+    name: Congo Republic Of The Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_103
+    name: Congo Republic Of The Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_104
+    name: Congo Republic Of The Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_105
+    name: Congo Republic Of The Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_106
+    name: Congo Republic Of The Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_107
+    name: Congo Republic Of The Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_108
+    name: Congo Republic Of The Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_109
+    name: Congo Republic Of The Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_110
+    name: Congo Republic Of The Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_111
+    name: Congo Republic Of The Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_112
+    name: Congo Republic Of The Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_113
+    name: Congo Republic Of The Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_114
+    name: Congo Republic Of The Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_115
+    name: Congo Republic Of The Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_116
+    name: Congo Republic Of The Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_117
+    name: Congo Republic Of The Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_118
+    name: Congo Republic Of The Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_119
+    name: Congo Republic Of The Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_120
+    name: Congo Republic Of The Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_121
+    name: Congo Republic Of The Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_122
+    name: Congo Republic Of The Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_123
+    name: Congo Republic Of The Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_124
+    name: Congo Republic Of The Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_125
+    name: Congo Republic Of The Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_126
+    name: Congo Republic Of The Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_127
+    name: Congo Republic Of The Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_128
+    name: Congo Republic Of The Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_129
+    name: Congo Republic Of The Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_130
+    name: Congo Republic Of The Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_131
+    name: Congo Republic Of The Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_132
+    name: Congo Republic Of The Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_133
+    name: Congo Republic Of The Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_134
+    name: Congo Republic Of The Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_135
+    name: Congo Republic Of The Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_136
+    name: Congo Republic Of The Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_137
+    name: Congo Republic Of The Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_138
+    name: Congo Republic Of The Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_139
+    name: Congo Republic Of The Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_140
+    name: Congo Republic Of The Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_141
+    name: Congo Republic Of The Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_142
+    name: Congo Republic Of The Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_143
+    name: Congo Republic Of The Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_144
+    name: Congo Republic Of The Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_145
+    name: Congo Republic Of The Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_146
+    name: Congo Republic Of The Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_147
+    name: Congo Republic Of The Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_148
+    name: Congo Republic Of The Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_149
+    name: Congo Republic Of The Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_150
+    name: Congo Republic Of The Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_151
+    name: Congo Republic Of The Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_152
+    name: Congo Republic Of The Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_153
+    name: Congo Republic Of The Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_154
+    name: Congo Republic Of The Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_155
+    name: Congo Republic Of The Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_156
+    name: Congo Republic Of The Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_157
+    name: Congo Republic Of The Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_158
+    name: Congo Republic Of The Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_159
+    name: Congo Republic Of The Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_160
+    name: Congo Republic Of The Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_161
+    name: Congo Republic Of The Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_162
+    name: Congo Republic Of The Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_163
+    name: Congo Republic Of The Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_164
+    name: Congo Republic Of The Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_165
+    name: Congo Republic Of The Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_166
+    name: Congo Republic Of The Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_167
+    name: Congo Republic Of The Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_168
+    name: Congo Republic Of The Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_169
+    name: Congo Republic Of The Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_cg_170
+    name: Congo Republic Of The Agent 170
+    status: ACTIVE_SCAFFOLD
