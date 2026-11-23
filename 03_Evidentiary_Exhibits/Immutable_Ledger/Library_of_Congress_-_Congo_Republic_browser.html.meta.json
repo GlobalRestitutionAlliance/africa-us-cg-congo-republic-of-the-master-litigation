@@ -1,0 +1,18 @@
+{
+  "url": "https://www.loc.gov/item/?q=congo+brazzaville+colonial",
+  "final_url": "https://www.loc.gov/item/?q=congo+brazzaville+colonial",
+  "title": "Library of Congress - Congo Republic",
+  "fetched_at": "2026-11-23T01:38:14.047898Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 60000,
+  "sha256": "e20ddc255d3b98094f2eae1bfd7f0ca8e5bff17d85a75894288582eeef27864b",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "status_note": "Browser fallback capture; public/unauthenticated; content may be landing/404/challenge page; not verified.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_404_PENDING_RECAPTURE",
+  "note": "Browser capture is a 404/landing/not-found page; retained for provenance only. NOT substantive evidence until recaptured from an authoritative source."
+}
